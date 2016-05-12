@@ -1,0 +1,78 @@
+#ett{ 
+    font-size:15px;
+    margin-top align-content: ;
+    padding-top: 20px;
+    width: 550px;
+    height: 100px;
+    border-color: aliceblue;
+        
+}
+p{
+    padding: center;
+    margin: 100px;
+    
+}
+    
+IMG{
+  border-radius: 71px 71px 71px 71px;
+-moz-border-radius: 71px 71px 71px 71px;
+-webkit-border-radius: 71px 71px 71px 71px;
+border:2px solid #FFFFFF;
+  
+ -webkit-box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+-moz-box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+}
+
+
+#två{
+    float: left;
+}
+
+IMG {
+ border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 0px solid #000000;
+    -webkit-box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+-moz-box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+}
+
+#tree
+img{
+    -webkit-box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+-moz-box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+box-shadow: 39px -14px 19px 2px rgba(0,0,0,0.31);
+}
+body{
+    background-color: bisque;
+    margin: 0px;
+    padding: 0px;
+}
+#FilMenu{
+    color: black;
+    width:100%;
+    height:80px;
+    background-color: black;
+    position: relative;
+    top:800px;
+    opacity: 0,85; 
+}
+
+#Menu{
+    font-size: 20px;
+    padding-top: 5px;      
+}
+
+#inner{
+    width: 100%;
+    margin: 0px;
+    float:left;
+    }
+li a:link{
+    color: aliceblue;
+}
+li a:visited{
+    
+}
